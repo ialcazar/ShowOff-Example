@@ -1,9 +1,6 @@
 !SLIDE 
 # Este es el título #
 
-Texto
+Texto de la presentación
 
 !SLIDE center
-
-
-
