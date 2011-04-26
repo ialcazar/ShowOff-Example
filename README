@@ -1,0 +1,16 @@
+An example with ShowOff and Heroku. You can visit http://gentle-mist-369.heroku.com/ to run the example.
+
+Additionally you can install a server to run it.
+1.- Install gem bundler: $ gem install bundler
+2.- Install the bundle: $ bundle install
+3.- Create a directory and the structure
+4.- Go to this directory (cd...)
+5.- Run showoff serve
+ Now you can visit the site in http://localhost:9090
+
+If you decide to work with Heroku:
+
+0.- heroku create
+1.- git add <files>
+2.- git commit -m "Message"
+3.- git push heroku master 
