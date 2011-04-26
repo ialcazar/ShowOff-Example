@@ -1,5 +1,7 @@
-!SLIDE bullets
-# Este es el título #
+!SLIDE 
+# Este es el título #
+
+Texto
 
 !SLIDE center
 
